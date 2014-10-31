@@ -1,0 +1,15 @@
+{
+  "node": true,
+  "browser": true,
+  "jquery": true,
+  "strict": true,
+  "camelcase": false,
+  "globals": {
+    "Snap": false,
+    "vertx": false,
+    "jest": false,
+    "describe": false,
+    "it": false,
+    "expect": false
+  }
+}
