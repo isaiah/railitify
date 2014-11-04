@@ -9,6 +9,9 @@ var NotFoundRoute = Router.NotFoundRoute;
 var DefaultRoute  = Router.DefaultRoute;
 var Link          = Router.Link;
 
+var Actions = require('./flux/actions');
+var TodoStore = require('./flux/stores');
+
 window.React = React;
 var routes = (
   <Routes>

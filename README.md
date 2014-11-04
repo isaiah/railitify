@@ -24,19 +24,23 @@ Included packages
 ----------------
 
 Rails:
+
     pg
     haml
     bootstrap-sass
 
 React:
+
     react-bootstrap: Bootstrap
     react-router: Routing
     cortexjs: Cursor library
     reflux: Flux layer
 
 Compile:
+
     browserify
     reactify
 
 Test:
+
     jest
